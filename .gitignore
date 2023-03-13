@@ -130,4 +130,4 @@ dmypy.json
 
 
 # Nauhc
-.wordbank.sqlite3
+*.sqlite3
